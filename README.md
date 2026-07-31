@@ -1,9 +1,9 @@
-<img src="./assets/topbar.svg" width="100%" alt="" />
-<img src="./assets/hero.svg" width="100%" alt="Antonio Orgaz — Full Stack Developer" />
-<img src="./assets/whoami-bar.svg" width="100%" alt="whoami" />
-<img src="./assets/overview-row.svg" width="100%" alt="System overview, tech stack and current focus" />
+<img src="./assets/topbar.svg?v=1785532930" width="100%" alt="" />
+<img src="./assets/hero.svg?v=1785532930" width="100%" alt="Antonio Orgaz — Full Stack Developer" />
+<img src="./assets/whoami-bar.svg?v=1785532930" width="100%" alt="whoami" />
+<img src="./assets/overview-row.svg?v=1785532930" width="100%" alt="System overview, tech stack and current focus" />
 <br/>
-<img src="./assets/projects.svg" width="100%" alt="Featured projects" />
+<img src="./assets/projects.svg?v=1785532930" width="100%" alt="Featured projects" />
 
 Case studies below describe the engineering problem, decisions and stack for each project — not implementation details, source code or business logic. All four are private repositories; none are linked.
 
@@ -15,6 +15,6 @@ Case studies below describe the engineering problem, decisions and stack for eac
 
 **Newsletter API** — Serverless subscription backend on Vercel Functions, integrated with Brevo for email delivery.
 <br/>
-<img src="./assets/stats-row.svg" width="100%" alt="Languages, account and repositories" />
+<img src="./assets/stats-row.svg?v=1785532930" width="100%" alt="Languages, account and repositories" />
 <br/>
-<img src="./assets/footer.svg" width="100%" alt="" />
+<img src="./assets/footer.svg?v=1785532930" width="100%" alt="" />
