@@ -1,8 +1,6 @@
 <img src="./assets/topbar.svg" width="100%" alt="" />
 <img src="./assets/hero.svg" width="100%" alt="Antonio Orgaz — Full Stack Developer" />
-<br/>
 <img src="./assets/whoami-bar.svg" width="100%" alt="whoami" />
-<br/>
 <img src="./assets/overview-row.svg" width="100%" alt="System overview, tech stack and current focus" />
 <br/>
 <img src="./assets/projects.svg" width="100%" alt="Featured projects" />
