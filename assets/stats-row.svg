@@ -1,0 +1,90 @@
+<svg width="1000" height="230" viewBox="0 0 1000 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+      .dim { fill: #8b949e; }
+      .fg { fill: #e6edf3; }
+      .accent { fill: #3fb950; }
+      .card { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+      .track { fill: #21262d; }
+      .bar { fill: #3fb950; }
+    </style>
+  </defs>
+  <rect width="1000" height="230" fill="#0d1117"/>
+
+  <!-- col 1: languages (real, computed from repo bytes) -->
+  <rect x="0" y="0" width="322" height="228" rx="6" class="card"/>
+  <text x="22" y="30" class="mono fg" font-size="13" font-weight="700" letter-spacing="1">LANGUAGES</text>
+  <line x1="22" y1="42" x2="300" y2="42" stroke="#21262d"/>
+  <text x="22" y="34" class="mono dim" font-size="9" text-anchor="start"></text>
+
+  <text x="22" y="66" class="mono fg" font-size="11">TypeScript</text>
+  <text x="300" y="66" class="mono dim" font-size="11" text-anchor="end">84.3%</text>
+  <rect x="22" y="72" width="278" height="5" rx="2.5" class="track"/>
+  <rect x="22" y="72" width="234" height="5" rx="2.5" class="bar"/>
+
+  <text x="22" y="98" class="mono fg" font-size="11">CSS</text>
+  <text x="300" y="98" class="mono dim" font-size="11" text-anchor="end">8.5%</text>
+  <rect x="22" y="104" width="278" height="5" rx="2.5" class="track"/>
+  <rect x="22" y="104" width="24" height="5" rx="2.5" class="bar"/>
+
+  <text x="22" y="130" class="mono fg" font-size="11">HTML</text>
+  <text x="300" y="130" class="mono dim" font-size="11" text-anchor="end">3.1%</text>
+  <rect x="22" y="136" width="278" height="5" rx="2.5" class="track"/>
+  <rect x="22" y="136" width="9" height="5" rx="2.5" class="bar"/>
+
+  <text x="22" y="162" class="mono fg" font-size="11">JavaScript</text>
+  <text x="300" y="162" class="mono dim" font-size="11" text-anchor="end">2.5%</text>
+  <rect x="22" y="168" width="278" height="5" rx="2.5" class="track"/>
+  <rect x="22" y="168" width="7" height="5" rx="2.5" class="bar"/>
+
+  <text x="22" y="194" class="mono fg" font-size="11">Python</text>
+  <text x="300" y="194" class="mono dim" font-size="11" text-anchor="end">1.5%</text>
+  <rect x="22" y="200" width="278" height="5" rx="2.5" class="track"/>
+  <rect x="22" y="200" width="4" height="5" rx="2.5" class="bar"/>
+
+  <!-- col 2: account -->
+  <rect x="339" y="0" width="322" height="228" rx="6" class="card"/>
+  <text x="361" y="30" class="mono fg" font-size="13" font-weight="700" letter-spacing="1">ACCOUNT</text>
+  <line x1="361" y1="42" x2="639" y2="42" stroke="#21262d"/>
+
+  <text x="361" y="72" class="mono dim" font-size="11">MEMBER SINCE</text>
+  <text x="639" y="72" class="mono fg" font-size="12" text-anchor="end">March 2024</text>
+
+  <text x="361" y="104" class="mono dim" font-size="11">REPOSITORIES</text>
+  <text x="639" y="104" class="mono fg" font-size="12" text-anchor="end">4 (private)</text>
+
+  <text x="361" y="136" class="mono dim" font-size="11">FOLLOWERS</text>
+  <text x="639" y="136" class="mono fg" font-size="12" text-anchor="end">3</text>
+
+  <text x="361" y="168" class="mono dim" font-size="11">PRIMARY LANGUAGE</text>
+  <text x="639" y="168" class="mono fg" font-size="12" text-anchor="end">TypeScript</text>
+
+  <text x="361" y="200" class="mono dim" font-size="11">TOTAL CODE VOLUME</text>
+  <text x="639" y="200" class="mono fg" font-size="12" text-anchor="end">~190K lines across projects</text>
+
+  <!-- col 3: repositories by size -->
+  <rect x="678" y="0" width="322" height="228" rx="6" class="card"/>
+  <text x="700" y="30" class="mono fg" font-size="13" font-weight="700" letter-spacing="1">REPOSITORIES</text>
+  <line x1="700" y1="42" x2="978" y2="42" stroke="#21262d"/>
+
+  <text x="700" y="66" class="mono dim" font-size="11">1</text>
+  <text x="718" y="66" class="mono fg" font-size="11">SaaS CRM Multiempresa</text>
+  <text x="978" y="66" class="mono dim" font-size="10" text-anchor="end">~105K lines</text>
+
+  <text x="700" y="94" class="mono dim" font-size="11">2</text>
+  <text x="718" y="94" class="mono fg" font-size="11">Fenix Viajes SaaS</text>
+  <text x="978" y="94" class="mono dim" font-size="10" text-anchor="end">~80K lines</text>
+
+  <text x="700" y="122" class="mono dim" font-size="11">3</text>
+  <text x="718" y="122" class="mono fg" font-size="11">Newsletter API</text>
+  <text x="978" y="122" class="mono dim" font-size="10" text-anchor="end">~3.1K lines</text>
+
+  <text x="700" y="150" class="mono dim" font-size="11">4</text>
+  <text x="718" y="150" class="mono fg" font-size="11">Maison Gris</text>
+  <text x="978" y="150" class="mono dim" font-size="10" text-anchor="end">~2.8K lines</text>
+
+  <line x1="700" y1="172" x2="978" y2="172" stroke="#21262d"/>
+  <text x="700" y="198" class="mono dim" font-size="10" font-style="italic">Ranked by codebase size —</text>
+  <text x="700" y="212" class="mono dim" font-size="10" font-style="italic">all repositories are private.</text>
+</svg>

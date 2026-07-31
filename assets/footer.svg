@@ -1,0 +1,25 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+      .dim { fill: #8b949e; }
+      .fg { fill: #e6edf3; }
+      .accent { fill: #3fb950; }
+      .accent-s { stroke: #3fb950; }
+    </style>
+  </defs>
+  <rect width="1000" height="120" fill="#0d1117"/>
+
+  <rect x="0" y="0" width="1000" height="80" rx="6" fill="#0d1117" stroke="#30363d"/>
+  <text x="24" y="34" class="mono dim" font-size="20" fill="#30363d">"</text>
+  <text x="44" y="34" class="mono fg" font-size="13">Code is not just about solving problems.</text>
+  <text x="44" y="54" class="mono fg" font-size="13">It's about building the right solutions.</text>
+
+  <text x="935" y="30" class="mono accent" font-size="22" font-weight="800" text-anchor="middle" stroke="#3fb950" stroke-width="0.6" fill="none">AO</text>
+
+  <line x1="0" y1="96" x2="1000" y2="96" stroke="#21262d"/>
+  <circle cx="6" cy="112" r="4" class="accent"/>
+  <text x="18" y="116" class="mono accent" font-size="11">System Online</text>
+  <text x="500" y="116" class="mono dim" font-size="11" text-anchor="middle">Thanks for visiting!</text>
+  <text x="1000" y="116" class="mono dim" font-size="11" text-anchor="end">Built with TypeScript &amp; Node.js</text>
+</svg>

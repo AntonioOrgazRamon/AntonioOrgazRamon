@@ -1,65 +1,39 @@
-<div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Antonio Orgaz — Software Engineer" />
-</div>
+<img src="./assets/topbar.svg" width="100%" alt="" />
 
 <br/>
 
-### `> whoami`
+<img src="./assets/hero.svg" width="100%" alt="Antonio Orgaz — Full Stack Developer" />
 
-```
-Full Stack Developer focused on backend systems, SaaS products
-and clean architecture.
+<br/><br/>
 
-I turn ideas into production-ready software — and I use AI-assisted
-engineering deliberately, as a force multiplier, not a shortcut.
-```
+<img src="./assets/whoami-bar.svg" width="100%" alt="whoami" />
 
-<br/>
+<br/><br/>
 
-### `> currently-building`
+<img src="./assets/overview-row.svg" width="100%" alt="System overview, tech stack and current focus" />
 
-<img src="./assets/currently-building.svg" width="100%" alt="Currently building" />
+<br/><br/>
+
+<img src="./assets/projects.svg" width="100%" alt="Featured projects" />
 
 <br/>
 
-### `> selected-work`
-
-Case studies below describe the engineering problem, decisions and stack — not implementation details, source code or business logic. Private projects are marked as such and are not linked.
+Case studies below describe the engineering problem, decisions and stack for each project — not implementation details, source code or business logic. All four are private repositories; none are linked.
 
 <br/>
 
-**Fenix Viajes — Multi-tenant SaaS for travel agencies** · `Private`
-- **Problem:** travel agencies manage leads, quotes and bookings across disconnected spreadsheets and tools.
-- **Approach:** a multi-tenant SaaS with a relational data model per agency, an automation layer for lead-to-quote workflows, and a reporting module.
-- **Stack:** TypeScript · Node.js · Angular · PostgreSQL · Prisma.
-- **Status:** active development.
+**Fenix Viajes SaaS** — Multi-tenant SaaS for travel agencies (leads, quoting, catalog and booking automation). Node.js + Express + Prisma API with a React SPA.
 
-**TFG — Operations Platform (Final Degree Project)** · `Private`
-- **Problem:** academic capstone requiring a full-stack system evaluated on architecture, not just functionality.
-- **Approach:** service-oriented backend with a documented data model, a dedicated design system, and UML-level architecture documentation produced alongside the code.
-- **Stack:** TypeScript · Node.js · Prisma · PostgreSQL · Angular.
-- **Status:** in development, pending final review.
+**SaaS CRM Multiempresa (TFG)** — Final-degree project: multi-tenant B2B CRM with a public lead-capture site that feeds leads directly into the CRM. Prisma + MySQL + React.
 
-**Real-time Chat & Geolocation Platform** · `Public`
-- **Problem:** connect users in real time based on proximity, with an administrative layer for moderation.
-- **Approach:** Symfony backend with a documented REST API, migrations-driven schema, and a deployment runbook.
-- **Stack:** PHP · Symfony · MySQL.
-- **Status:** maintained.
+**Maison Gris** — Cinematic single-screen landing page for a restaurant, with an editorial motion system built on GSAP.
+
+**Newsletter API** — Serverless subscription backend on Vercel Functions, integrated with Brevo for email delivery.
 
 <br/>
 
-### `> engineering-stack`
+<img src="./assets/stats-row.svg" width="100%" alt="Languages, account and repositories" />
 
-<img src="./assets/stack.svg" width="100%" alt="Engineering stack" />
+<br/><br/>
 
-<br/>
-
-### `> connect`
-
-<a href="https://linkedin.com/in/antonioorgaz"><img src="./assets/connect.svg" width="100%" alt="Connect" /></a>
-
-<br/>
-
-<div align="center">
-  <sub>Code is not just what I write — it's how I solve problems.</sub>
-</div>
+<img src="./assets/footer.svg" width="100%" alt="" />
