@@ -18,11 +18,7 @@ engineering deliberately, as a force multiplier, not a shortcut.
 
 ### `> currently-building`
 
-| Project | Description | Status |
-|---|---|---|
-| **Fenix Viajes — SaaS Platform** | Multi-tenant SaaS for travel agencies: lead management, quoting, catalog, automation and reporting. | `Private` · In development |
-| **TFG — Operations Platform** | Final-degree engineering project. Backend + frontend system with its own design system and documented architecture. | `Private` · In development |
-| **Real-time Chat & Geolocation** | Location-aware chat platform with an admin panel and deployment pipeline. | `Public` · Maintained |
+<img src="./assets/currently-building.svg" width="100%" alt="Currently building" />
 
 <br/>
 
@@ -54,24 +50,13 @@ Case studies below describe the engineering problem, decisions and stack — not
 
 ### `> engineering-stack`
 
-| | |
-|---|---|
-| **Frontend** | React · Next.js · Angular · TypeScript |
-| **Backend** | Node.js · Express · REST APIs |
-| **Data** | PostgreSQL · Prisma · MySQL |
-| **Infra** | Docker · Linux · GitHub Actions |
-| **Practices** | Clean architecture · AI-assisted engineering workflows |
+<img src="./assets/stack.svg" width="100%" alt="Engineering stack" />
 
 <br/>
 
 ### `> connect`
 
-| | |
-|---|---|
-| **LinkedIn** | [/in/antonioorgaz](https://linkedin.com/in/antonioorgaz) |
-| **Portfolio** | [nakedcode.es](https://nakedcode.es) |
-| **Email** | portfolio@nakedcode.es |
-| **Location** | Valencia, Spain |
+<a href="https://linkedin.com/in/antonioorgaz"><img src="./assets/connect.svg" width="100%" alt="Connect" /></a>
 
 <br/>
 
