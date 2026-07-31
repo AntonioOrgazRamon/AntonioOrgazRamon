@@ -8,6 +8,7 @@
       .card { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
       .tag { fill: #161b22; stroke: #30363d; }
       .tagtxt { fill: #c9d1d9; font-size: 9px; }
+      .repo { fill: #58a6ff; font-size: 10px; }
     </style>
   </defs>
   <rect width="1000" height="230" fill="#0d1117"/>
@@ -15,57 +16,56 @@
   <text x="1000" y="20" class="mono dim" font-size="11" text-anchor="end">4 repositories · all private</text>
   <line x1="0" y1="30" x2="1000" y2="30" stroke="#21262d"/>
 
-  <!-- card 1: Fenix Viajes SaaS -->
+  <!-- card 1: FenixViajesSaaS -->
   <rect x="0" y="46" width="242" height="184" rx="6" class="card"/>
-  <rect x="16" y="60" width="58" height="18" rx="9" fill="#161b22" stroke="#30363d"/>
-  <text x="45" y="73" class="mono dim" font-size="9" text-anchor="middle" letter-spacing="1">PRIVATE</text>
-  <text x="16" y="102" class="mono fg" font-size="13" font-weight="700">Fenix Viajes</text>
-  <text x="16" y="118" class="mono fg" font-size="13" font-weight="700">SaaS</text>
-  <text x="16" y="140" class="mono dim" font-size="10">Multi-tenant travel agency</text>
-  <text x="16" y="154" class="mono dim" font-size="10">platform: leads, quoting</text>
-  <text x="16" y="168" class="mono dim" font-size="10">and booking automation.</text>
-  <rect x="16" y="180" width="52" height="16" rx="3" class="tag"/><text x="42" y="191" class="tagtxt" text-anchor="middle">Node.js</text>
-  <rect x="72" y="180" width="46" height="16" rx="3" class="tag"/><text x="95" y="191" class="tagtxt" text-anchor="middle">Prisma</text>
-  <rect x="122" y="180" width="42" height="16" rx="3" class="tag"/><text x="143" y="191" class="tagtxt" text-anchor="middle">React</text>
+  <rect x="16" y="58" width="58" height="18" rx="9" fill="#161b22" stroke="#30363d"/>
+  <text x="45" y="71" class="mono dim" font-size="9" text-anchor="middle" letter-spacing="1">PRIVATE</text>
+  <text x="16" y="94" class="mono repo" font-weight="700">FenixViajesSaaS</text>
+  <text x="16" y="114" class="mono fg" font-size="12">Multi-tenant travel agency SaaS</text>
+  <text x="16" y="140" class="mono dim" font-size="10">Lead management, quoting,</text>
+  <text x="16" y="154" class="mono dim" font-size="10">catalog and booking automation.</text>
+  <rect x="16" y="170" width="52" height="16" rx="3" class="tag"/><text x="42" y="181" class="tagtxt" text-anchor="middle">Node.js</text>
+  <rect x="72" y="170" width="46" height="16" rx="3" class="tag"/><text x="95" y="181" class="tagtxt" text-anchor="middle">Prisma</text>
+  <rect x="122" y="170" width="42" height="16" rx="3" class="tag"/><text x="143" y="181" class="tagtxt" text-anchor="middle">React</text>
   <text x="16" y="216" class="mono accent" font-size="9">● Active development</text>
 
-  <!-- card 2: TFG CRM -->
+  <!-- card 2: PROYECTO-FINAL-GRADO -->
   <rect x="253" y="46" width="242" height="184" rx="6" class="card"/>
-  <rect x="269" y="60" width="58" height="18" rx="9" fill="#161b22" stroke="#30363d"/>
-  <text x="298" y="73" class="mono dim" font-size="9" text-anchor="middle" letter-spacing="1">PRIVATE</text>
-  <text x="269" y="102" class="mono fg" font-size="13" font-weight="700">SaaS CRM</text>
-  <text x="269" y="118" class="mono fg" font-size="13" font-weight="700">Multiempresa (TFG)</text>
-  <text x="269" y="140" class="mono dim" font-size="10">Multi-tenant B2B CRM with</text>
-  <text x="269" y="154" class="mono dim" font-size="10">a public lead-capture site</text>
-  <text x="269" y="168" class="mono dim" font-size="10">feeding leads into the CRM.</text>
+  <rect x="269" y="58" width="58" height="18" rx="9" fill="#161b22" stroke="#30363d"/>
+  <text x="298" y="71" class="mono dim" font-size="9" text-anchor="middle" letter-spacing="1">PRIVATE</text>
+  <text x="269" y="94" class="mono repo" font-weight="700" font-size="9">PROYECTO-FINAL-GRADO</text>
+  <text x="269" y="114" class="mono fg" font-size="12">Multi-tenant B2B CRM (TFG)</text>
+  <text x="269" y="140" class="mono dim" font-size="10">Final-degree project with a</text>
+  <text x="269" y="154" class="mono dim" font-size="10">public lead-capture site feeding</text>
+  <text x="269" y="168" class="mono dim" font-size="10">leads into the CRM.</text>
   <rect x="269" y="180" width="52" height="16" rx="3" class="tag"/><text x="295" y="191" class="tagtxt" text-anchor="middle">Prisma</text>
   <rect x="325" y="180" width="42" height="16" rx="3" class="tag"/><text x="346" y="191" class="tagtxt" text-anchor="middle">React</text>
   <rect x="371" y="180" width="46" height="16" rx="3" class="tag"/><text x="394" y="191" class="tagtxt" text-anchor="middle">MySQL</text>
   <text x="269" y="216" class="mono accent" font-size="9">● Active development</text>
 
-  <!-- card 3: Maison Gris -->
+  <!-- card 3: LAPEATONAL -->
   <rect x="506" y="46" width="242" height="184" rx="6" class="card"/>
-  <rect x="522" y="60" width="58" height="18" rx="9" fill="#161b22" stroke="#30363d"/>
-  <text x="551" y="73" class="mono dim" font-size="9" text-anchor="middle" letter-spacing="1">PRIVATE</text>
-  <text x="522" y="102" class="mono fg" font-size="13" font-weight="700">Maison Gris</text>
-  <text x="522" y="118" class="mono dim" font-size="11">Restaurant Landing</text>
-  <text x="522" y="140" class="mono dim" font-size="10">Cinematic single-screen</text>
-  <text x="522" y="154" class="mono dim" font-size="10">landing page with an</text>
+  <rect x="522" y="58" width="58" height="18" rx="9" fill="#161b22" stroke="#30363d"/>
+  <text x="551" y="71" class="mono dim" font-size="9" text-anchor="middle" letter-spacing="1">PRIVATE</text>
+  <text x="522" y="94" class="mono repo" font-weight="700">LAPEATONAL</text>
+  <text x="522" y="114" class="mono fg" font-size="12">Restaurant landing page</text>
+  <text x="522" y="140" class="mono dim" font-size="10">"Maison Gris" — cinematic</text>
+  <text x="522" y="154" class="mono dim" font-size="10">single-screen page with an</text>
   <text x="522" y="168" class="mono dim" font-size="10">editorial motion system.</text>
   <rect x="522" y="180" width="30" height="16" rx="3" class="tag"/><text x="537" y="191" class="tagtxt" text-anchor="middle">JS</text>
   <rect x="556" y="180" width="44" height="16" rx="3" class="tag"/><text x="578" y="191" class="tagtxt" text-anchor="middle">GSAP</text>
   <rect x="604" y="180" width="42" height="16" rx="3" class="tag"/><text x="625" y="191" class="tagtxt" text-anchor="middle">CSS</text>
   <text x="522" y="216" class="mono dim" font-size="9">● Complete</text>
 
-  <!-- card 4: Newsletter API -->
+  <!-- card 4: SOMRIUSPORTS -->
   <rect x="759" y="46" width="241" height="184" rx="6" class="card"/>
-  <rect x="775" y="60" width="58" height="18" rx="9" fill="#161b22" stroke="#30363d"/>
-  <text x="804" y="73" class="mono dim" font-size="9" text-anchor="middle" letter-spacing="1">PRIVATE</text>
-  <text x="775" y="102" class="mono fg" font-size="13" font-weight="700">Newsletter API</text>
-  <text x="775" y="118" class="mono dim" font-size="11">Serverless Backend</text>
-  <text x="775" y="140" class="mono dim" font-size="10">Subscription API on Vercel</text>
-  <text x="775" y="154" class="mono dim" font-size="10">Functions, integrated with</text>
-  <text x="775" y="168" class="mono dim" font-size="10">Brevo for email delivery.</text>
+  <rect x="775" y="58" width="58" height="18" rx="9" fill="#161b22" stroke="#30363d"/>
+  <text x="804" y="71" class="mono dim" font-size="9" text-anchor="middle" letter-spacing="1">PRIVATE</text>
+  <text x="775" y="94" class="mono repo" font-weight="700">SOMRIUSPORTS</text>
+  <text x="775" y="114" class="mono fg" font-size="12">Newsletter subscription API</text>
+  <text x="775" y="140" class="mono dim" font-size="10">Serverless backend on Vercel</text>
+  <text x="775" y="154" class="mono dim" font-size="10">Functions, integrated with Brevo</text>
+  <text x="775" y="168" class="mono dim" font-size="10">for email delivery.</text>
   <rect x="775" y="180" width="34" height="16" rx="3" class="tag"/><text x="792" y="191" class="tagtxt" text-anchor="middle">JS</text>
   <rect x="813" y="180" width="58" height="16" rx="3" class="tag"/><text x="842" y="191" class="tagtxt" text-anchor="middle">Vercel</text>
   <rect x="875" y="180" width="46" height="16" rx="3" class="tag"/><text x="898" y="191" class="tagtxt" text-anchor="middle">Brevo</text>

@@ -3,7 +3,7 @@
 <img src="./assets/whoami-bar.svg?v=1785532930" width="100%" alt="whoami" />
 <img src="./assets/overview-row.svg?v=1785532930" width="100%" alt="System overview, tech stack and current focus" />
 <br/>
-<img src="./assets/projects.svg?v=1785532930" width="100%" alt="Featured projects" />
+<img src="./assets/projects.svg?v=1785533115" width="100%" alt="Featured projects" />
 
 Case studies below describe the engineering problem, decisions and stack for each project — not implementation details, source code or business logic. All four are private repositories; none are linked.
 
