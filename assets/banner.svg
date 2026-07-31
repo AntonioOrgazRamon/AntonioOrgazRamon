@@ -1,0 +1,49 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+      .dim { fill: #6b7280; }
+      .fg { fill: #e6edf3; }
+      .accent { fill: #3fb950; }
+      .accent-line { stroke: #3fb950; }
+    </style>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#1c2128" />
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="260" fill="#0d1117"/>
+  <rect x="620" y="0" width="380" height="260" fill="url(#dots)"/>
+  <rect width="1000" height="260" fill="#0d1117" fill-opacity="0" stroke="#21262d" stroke-width="1"/>
+
+  <!-- left: identity -->
+  <text x="48" y="76" class="mono accent" font-size="34" font-weight="700">&gt; ANTONIO ORGAZ</text>
+  <text x="50" y="102" class="mono dim" font-size="14" letter-spacing="2">SOFTWARE ENGINEER — BACKEND &amp; SAAS ARCHITECTURE</text>
+
+  <text x="50" y="140" class="mono fg" font-size="14">Building scalable backend systems and SaaS</text>
+  <text x="50" y="160" class="mono fg" font-size="14">products with production-grade architecture.</text>
+
+  <line x1="50" y1="184" x2="330" y2="184" class="accent-line" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="50" y="208" class="mono dim" font-size="12" letter-spacing="1">FOCUS</text>
+  <text x="50" y="228" class="mono fg" font-size="13">Backend · Architecture · SaaS · AI-assisted engineering</text>
+
+  <!-- right: status panel -->
+  <rect x="660" y="40" width="300" height="180" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <circle cx="682" cy="64" r="4" class="accent"/>
+  <text x="694" y="68" class="mono fg" font-size="12" letter-spacing="1">SYSTEM STATUS</text>
+  <text x="900" y="68" class="mono accent" font-size="11" text-anchor="end">ONLINE</text>
+
+  <line x1="680" y1="82" x2="940" y2="82" stroke="#21262d" stroke-width="1"/>
+
+  <text x="680" y="108" class="mono dim" font-size="11">LOCATION</text>
+  <text x="940" y="108" class="mono fg" font-size="12" text-anchor="end">Valencia, Spain</text>
+
+  <text x="680" y="134" class="mono dim" font-size="11">STACK</text>
+  <text x="940" y="134" class="mono fg" font-size="12" text-anchor="end">TS · Node.js · React</text>
+
+  <text x="680" y="160" class="mono dim" font-size="11">DOMAIN</text>
+  <text x="940" y="160" class="mono fg" font-size="12" text-anchor="end">SaaS · Automation</text>
+
+  <text x="680" y="186" class="mono dim" font-size="11">STATUS</text>
+  <text x="940" y="186" class="mono accent" font-size="12" text-anchor="end" font-weight="600">AVAILABLE FOR WORK</text>
+</svg>
